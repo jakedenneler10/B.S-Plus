@@ -11,3 +11,4 @@ struct DealerCard: Card{
     var suit = ""
     var value:Int
 }
+
