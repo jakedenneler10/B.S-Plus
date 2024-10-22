@@ -13,7 +13,6 @@ protocol Deck {
 	func shuffle()
 	func reset()
 	func drawACard()
-	
 }
 
 protocol Shoe {
