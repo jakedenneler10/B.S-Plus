@@ -29,22 +29,9 @@
 		3FD2231D2CC7EFFE00D7DA99 /* B.S.PlusUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = B.S.PlusUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		3FD223312CC8013A00D7DA99 /* Exceptions for "B.S.Plus" folder in "B.S.Plus" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				.swift,
-			);
-			target = 3FD223022CC7EFFC00D7DA99 /* B.S.Plus */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		3FD223052CC7EFFC00D7DA99 /* B.S.Plus */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				3FD223312CC8013A00D7DA99 /* Exceptions for "B.S.Plus" folder in "B.S.Plus" target */,
-			);
 			path = B.S.Plus;
 			sourceTree = "<group>";
 		};
