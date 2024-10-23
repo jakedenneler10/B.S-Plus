@@ -7,7 +7,7 @@
 
 import Foundation
 
-var cardDecks : Array = [DealerDeck]
+//var cardDecks = [DealerDecks]
 
 struct DealerShoe : Shoe {
     func reset() {
@@ -17,6 +17,4 @@ struct DealerShoe : Shoe {
     func drawACard() {
         
     }
-    
-    
 }
