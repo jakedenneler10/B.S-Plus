@@ -6,10 +6,8 @@
 //
 
 import Foundation
-
-//var cardDecks = [DealerDecks]
-
 struct DealerShoe : Shoe {
+    var decks: [DealerDeck]
     func reset() {
         
     }
